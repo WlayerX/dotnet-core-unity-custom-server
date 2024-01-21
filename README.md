@@ -1,2 +1,2 @@
-# .NET Core | Custom Unity Server 
-This project includes a custom server solution based on .NET Core, designed to host a specialized server application for a game developed with the Unity game engine. Tailored to meet the customized requirements of the game, this server aims to provide players with an enhanced gaming experience.
+.NET Core | Özel Unity Sunucusu
+Bu proje, Unity oyun motoru ile geliştirilmiş bir oyun için özel bir sunucu uygulamasına ev sahipliği yapmak üzere tasarlanmış .NET Core tabanlı özel bir sunucu çözümünü içerir. Oyunun özelleştirilmiş gereksinimlerini karşılamak üzere tasarlanmış olan bu sunucu, oyunculara gelişmiş bir oyun deneyimi sunmayı hedeflemektedir.
